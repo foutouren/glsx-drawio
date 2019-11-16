@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-16T05:11:32.374Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="25EI36-CPDOLP-hvi19D" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-16T05:44:26.479Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="JK2gFWy6AWcokNaqN5DR" version="12.2.6" type="github" pages="1">
   <diagram id="8B9uCQ1gA0UH8dpnEvxa" name="Page-1">
     <mxGraphModel dx="942" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
             <C4SoftwareSystem as="c4"/>
           </mxCell>
         </object>
+        <mxCell id="1ThJQaqHk3oZWgfXGtL0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-8" target="1ThJQaqHk3oZWgfXGtL0-26">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <object label="wechat-sales&lt;div&gt;[销售系统小程序API]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统小程序数据接口&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="480" y="300" width="160" height="100" as="geometry"/>
@@ -98,6 +101,12 @@
         <object label="rpc-merchant&lt;div&gt;[商户系统]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;商户系统&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="700" y="500" width="160" height="100" as="geometry"/>
+            <C4SoftwareSystem as="c4"/>
+          </mxCell>
+        </object>
+        <object label="wechat&lt;div&gt;[微信平台]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;微信平台授权&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="700" y="297.5" width="160" height="105" as="geometry"/>
             <C4SoftwareSystem as="c4"/>
           </mxCell>
         </object>
