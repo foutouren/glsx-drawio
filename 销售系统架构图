@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-16T04:12:23.586Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="ydimYIQtRHdXo-_U4RwQ" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-16T05:11:10.830Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="S8_l6oxiYYAwqNW5R7CC" version="12.2.6" type="github" pages="1">
   <diagram id="8B9uCQ1gA0UH8dpnEvxa" name="Page-1">
     <mxGraphModel dx="942" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="1ThJQaqHk3oZWgfXGtL0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-13" target="1ThJQaqHk3oZWgfXGtL0-10">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <object label="&lt;div style=&quot;text-align: left&quot;&gt;SALES-BFF&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[销售系统bff层]&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="ExecutionEnvironment" c4Application="applicationAndVersion" id="1ThJQaqHk3oZWgfXGtL0-13">
+        <object label="&lt;div style=&quot;text-align: left&quot;&gt;SALES-API&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[销售系统bff层]&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="ExecutionEnvironment" c4Application="applicationAndVersion" id="1ThJQaqHk3oZWgfXGtL0-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=3;strokeColor=#000000;verticalAlign=bottom;" vertex="1" parent="1">
             <mxGeometry x="180" y="280" width="480" height="160" as="geometry"/>
             <C4ExecutionEnvironment as="c4"/>
@@ -47,18 +47,27 @@
           <mxGeometry x="40" width="71.11111111111111" height="71.11111111111111" as="geometry"/>
           <C4Person as="c4"/>
         </mxCell>
-        <object label="gop-sales&lt;div&gt;[销售系统管理后台BFF]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统管理后台BFF层&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-7">
+        <object label="gop-sales&lt;div&gt;[销售系统管理后台API]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统管理后台数据接口&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="200" y="300" width="160" height="100" as="geometry"/>
             <C4SoftwareSystem as="c4"/>
           </mxCell>
         </object>
-        <object label="wechat-sales&lt;div&gt;[销售系统小程序BFF]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统小程序BFF层&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-8">
+        <object label="wechat-sales&lt;div&gt;[销售系统小程序API]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统小程序数据接口&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="480" y="300" width="160" height="100" as="geometry"/>
             <C4SoftwareSystem as="c4"/>
           </mxCell>
         </object>
+        <mxCell id="1ThJQaqHk3oZWgfXGtL0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-9" target="1ThJQaqHk3oZWgfXGtL0-20">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1ThJQaqHk3oZWgfXGtL0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-9" target="1ThJQaqHk3oZWgfXGtL0-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1ThJQaqHk3oZWgfXGtL0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-9" target="1ThJQaqHk3oZWgfXGtL0-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <object label="rpc-sales&lt;br&gt;&lt;div&gt;[销售系统服务]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;销售系统服务&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
             <mxGeometry x="200" y="500" width="440" height="100" as="geometry"/>
@@ -83,6 +92,15 @@
         <mxCell id="1ThJQaqHk3oZWgfXGtL0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ThJQaqHk3oZWgfXGtL0-5" target="1ThJQaqHk3oZWgfXGtL0-8">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="1ThJQaqHk3oZWgfXGtL0-19" value="UI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="82" width="40" height="158" as="geometry"/>
+        </mxCell>
+        <object label="rpc-merchant&lt;div&gt;[商户系统]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;商户系统&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="1ThJQaqHk3oZWgfXGtL0-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="700" y="500" width="160" height="100" as="geometry"/>
+            <C4SoftwareSystem as="c4"/>
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
