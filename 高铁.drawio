@@ -1,1 +1,337 @@
-<mxfile modified="2019-10-09T05:47:31.356Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="4CC1sHCadq8Rlp24kvz7" version="12.0.3" type="github" pages="1"><diagram id="XgNLohZO-eH7kfHfhw-q" name="Page-1">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</diagram></mxfile>
+<mxfile modified="2020-11-05T08:59:21.494Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="cvz2ANt-ccbKQG5caiCO" version="13.8.9-1" type="github" pages="2">
+  <diagram id="XgNLohZO-eH7kfHfhw-q" name="Page-1">
+    <mxGraphModel dx="1769" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;strokeColor=#33FF33;strokeWidth=2;fillColor=#00CC00;shape=arrow;" parent="1" source="qdi0TwbtCyqAuakRcPLN-23" target="qdi0TwbtCyqAuakRcPLN-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;text-align: left&quot;&gt;接入系统&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[接入系统 - 1.0.0]&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="ExecutionEnvironment" c4Application="applicationAndVersion" id="qdi0TwbtCyqAuakRcPLN-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=3;strokeColor=#000000;verticalAlign=bottom;" parent="1" vertex="1">
+            <mxGeometry x="-400" y="260" width="240" height="420" as="geometry" />
+            <C4ExecutionEnvironment as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-1" value="" style="group;rounded=0;labelBackgroundColor=none;fillColor=none;fontColor=#000000;align=center;html=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="40" width="160" height="180" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <object label="小程序&lt;div&gt;[用户]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;微信小程序&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="body" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;fontColor=#ffffff;align=center;arcSize=33;strokeColor=#3700CC;" parent="qdi0TwbtCyqAuakRcPLN-1" vertex="1">
+            <mxGeometry y="70" width="160" height="110" as="geometry" />
+            <C4Person as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;labelBackgroundColor=none;fillColor=#0050ef;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#001DBC;" parent="qdi0TwbtCyqAuakRcPLN-1" vertex="1">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-4" value="" style="group;rounded=0;labelBackgroundColor=none;fillColor=none;fontColor=#000000;align=center;html=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="520" y="40" width="160" height="180" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <object label="后台admin&lt;br&gt;&lt;div&gt;[用户]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;运维后台&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="body" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;fontColor=#ffffff;align=center;arcSize=33;strokeColor=#3700CC;" parent="qdi0TwbtCyqAuakRcPLN-4" vertex="1">
+            <mxGeometry y="70" width="160" height="110" as="geometry" />
+            <C4Person as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;labelBackgroundColor=none;fillColor=#0050ef;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#001DBC;" parent="qdi0TwbtCyqAuakRcPLN-4" vertex="1">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <object label="&lt;div style=&quot;text-align: left&quot;&gt;平台服务&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[平台提供的高铁业务服务 - 1.0.0]&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="ExecutionEnvironment" c4Application="applicationAndVersion" id="qdi0TwbtCyqAuakRcPLN-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=3;strokeColor=#000000;verticalAlign=bottom;" parent="1" vertex="1">
+            <mxGeometry x="80" y="260" width="640" height="420" as="geometry" />
+            <C4ExecutionEnvironment as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=1;curved=1;" parent="1" source="qdi0TwbtCyqAuakRcPLN-8" target="qdi0TwbtCyqAuakRcPLN-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;curved=1;" parent="1" source="qdi0TwbtCyqAuakRcPLN-8" target="qdi0TwbtCyqAuakRcPLN-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="高铁SOA服务&lt;br&gt;&lt;div&gt;[rpc-tfims]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;平台提供相关服务&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="240" y="300" width="160" height="110" as="geometry" />
+            <C4SoftwareSystem as="c4" />
+          </mxCell>
+        </object>
+        <object label="高铁API&lt;br&gt;&lt;div&gt;[gop-tfims]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;平台提供的开放接口&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=7;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="520" y="300" width="160" height="110" as="geometry" />
+            <C4SoftwareSystem as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;" parent="1" source="qdi0TwbtCyqAuakRcPLN-2" target="qdi0TwbtCyqAuakRcPLN-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qdi0TwbtCyqAuakRcPLN-5" target="qdi0TwbtCyqAuakRcPLN-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="220" as="sourcePoint" />
+            <mxPoint x="639.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-12" value="" style="endArrow=classic;html=1;dashed=1;strokeWidth=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qdi0TwbtCyqAuakRcPLN-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;span&gt;t_fims&lt;/span&gt;&lt;div&gt;[高铁数据库 - mysql]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;高铁项目相关业务数据存储&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Type="Database" c4Technology="technology" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-13">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;fontSize=12;fontColor=#000000;align=center;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="360" y="490" width="160" height="140" as="geometry" />
+            <C4Database as="c4" />
+          </mxCell>
+        </object>
+        <object label="&lt;span&gt;Redis&lt;br&gt;&lt;/span&gt;&lt;div&gt;[分布式缓存数据]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;缓存常被查询到的数据&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Type="Database" c4Technology="technology" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-15">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;fontSize=12;align=center;strokeColor=#82b366;" parent="1" vertex="1">
+            <mxGeometry x="120" y="490" width="160" height="140" as="geometry" />
+            <C4Database as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shape=arrow;strokeColor=#66FF66;targetPerimeterSpacing=6;sourcePerimeterSpacing=6;fillColor=#00CC00;" parent="1" source="qdi0TwbtCyqAuakRcPLN-17" target="qdi0TwbtCyqAuakRcPLN-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;kafka&lt;/b&gt;&lt;div&gt;[消息中间件]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用来进行异构系统间的业务传递&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="SoftwareSystem" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;fontColor=#ffffff;align=center;arcSize=7;strokeColor=#2D7600;" parent="1" vertex="1">
+            <mxGeometry x="-80" y="260" width="80" height="420" as="geometry" />
+            <C4SoftwareSystem as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-19" value="" style="group;rounded=0;labelBackgroundColor=none;fillColor=none;fontColor=#000000;align=center;html=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-360" y="40" width="160" height="180" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <object label="终端设备&lt;br&gt;&lt;div&gt;[子系统]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;高铁上的相关设备&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="body" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#6a00ff;fontColor=#ffffff;align=center;arcSize=33;strokeColor=#3700CC;" parent="qdi0TwbtCyqAuakRcPLN-19" vertex="1">
+            <mxGeometry y="70" width="160" height="110" as="geometry" />
+            <C4Person as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;labelBackgroundColor=none;fillColor=#0050ef;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#001DBC;" parent="qdi0TwbtCyqAuakRcPLN-19" vertex="1">
+          <mxGeometry x="40" width="80" height="80" as="geometry" />
+          <C4Person as="c4" />
+        </mxCell>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;strokeColor=#330000;strokeWidth=1;fillColor=#00CC00;dashed=1;" parent="1" source="qdi0TwbtCyqAuakRcPLN-22" target="qdi0TwbtCyqAuakRcPLN-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;span&gt;接入系统&lt;br&gt;&lt;/span&gt;&lt;div&gt;[接入平台&lt;span&gt;&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;负责设备的物联网接入&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=6;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="-360" y="300" width="160" height="110" as="geometry" />
+            <C4Container as="c4" />
+          </mxCell>
+        </object>
+        <mxCell id="qdi0TwbtCyqAuakRcPLN-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sourcePerimeterSpacing=6;targetPerimeterSpacing=6;strokeColor=#330000;strokeWidth=2;fillColor=#00CC00;dashed=1;" parent="1" source="qdi0TwbtCyqAuakRcPLN-20" target="qdi0TwbtCyqAuakRcPLN-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;span&gt;状态服务器+业务处理&lt;br&gt;&lt;/span&gt;&lt;div&gt;[接入平台&lt;span&gt;&lt;/span&gt;&lt;span&gt;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;负责设备状态管理，及上报数据分析&lt;br&gt;&lt;/div&gt;" placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Beschreibung" id="qdi0TwbtCyqAuakRcPLN-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;fontColor=#000000;align=center;arcSize=6;strokeColor=#6c8ebf;" parent="1" vertex="1">
+            <mxGeometry x="-360" y="490" width="160" height="110" as="geometry" />
+            <C4Container as="c4" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0CUpS0LivniZWUciT9EN" name="Page-2">
+    <mxGraphModel dx="942" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pHmbYkLB0yxuLn5dIZtR-0" />
+        <mxCell id="pHmbYkLB0yxuLn5dIZtR-1" parent="pHmbYkLB0yxuLn5dIZtR-0" />
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-40" target="Qbq5ssBaw6gX6Ap_R9ET-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="data_platform" c4Type="ExecutionEnvironment" c4Application="大叔据平台ICE服务和kafka数据队列" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="920" y="480" width="590" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-17" target="Qbq5ssBaw6gX6Ap_R9ET-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1125" y="479" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="虎哥E盾" c4Type="ExecutionEnvironment" c4Application="tiger-eshield" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="740" y="250" width="770" height="180" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="pHmbYkLB0yxuLn5dIZtR-2" target="pHmbYkLB0yxuLn5dIZtR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="虎哥E盾APP" c4Description="虎哥E盾手机APP应用" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="eshield" id="pHmbYkLB0yxuLn5dIZtR-2">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="120" y="60" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="pHmbYkLB0yxuLn5dIZtR-5" target="Qbq5ssBaw6gX6Ap_R9ET-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="pHmbYkLB0yxuLn5dIZtR-5" target="Qbq5ssBaw6gX6Ap_R9ET-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="gop-frms" c4Type="Container" c4Technology="gop" c4Description="虎哥E盾app接口服务" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="pHmbYkLB0yxuLn5dIZtR-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="120" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Technology="mysql" c4Description="app应用的支持数据库" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-0">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="120" y="470" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-3" target="Qbq5ssBaw6gX6Ap_R9ET-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="虎哥E盾后台" c4Description="虎哥E盾后台系统" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="eshield" id="Qbq5ssBaw6gX6Ap_R9ET-3">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="760" y="60" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-4" target="Qbq5ssBaw6gX6Ap_R9ET-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="Frms" c4Description="frms系统" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="frms" id="Qbq5ssBaw6gX6Ap_R9ET-4">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="440" y="60" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-6" target="Qbq5ssBaw6gX6Ap_R9ET-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="frms" c4Type="Container" c4Technology="springMvc" c4Description="frms系统单体应用，通过servlet提供了公共数据接口" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="440" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="dbData" c4Type="db data" c4Application="系统的数据存储方式" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="420" y="470" width="400" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Technology="mysql" c4Description="mysql db存储" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-11">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="440" y="495" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="nosql" c4Technology="redis" c4Description="nosql数据存储" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-12">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;fontSize=12;align=center;strokeColor=#82b366;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="640" y="495" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="tieger-eshield" c4Type="Container" c4Technology="springboot" c4Description="虎哥E盾工单、车辆档案和警情数据" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="760" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="tieger-eshield-interface" c4Type="Container" c4Technology="springboot" c4Description="虎哥E盾标准接口" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1045" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-20" target="Qbq5ssBaw6gX6Ap_R9ET-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="汇通" c4Description="汇通客户系统对接" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="custor" id="Qbq5ssBaw6gX6Ap_R9ET-20">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#fad7ac;strokeColor=#b46504;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="960" y="90" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-21" target="Qbq5ssBaw6gX6Ap_R9ET-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="先锋" c4Description="先锋客户系统对接" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="custor" id="Qbq5ssBaw6gX6Ap_R9ET-21">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#fad7ac;strokeColor=#b46504;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1030" y="-40" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-22" target="Qbq5ssBaw6gX6Ap_R9ET-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="安吉" c4Description="安吉客户系统对接" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="custor" id="Qbq5ssBaw6gX6Ap_R9ET-22">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#fad7ac;strokeColor=#b46504;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1150" y="-40" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="kafka-consumer" c4Type="Container" c4Technology="java" c4Description="设备位置数据，设备警情消费" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1330" y="280" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-30" target="Qbq5ssBaw6gX6Ap_R9ET-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="包活干" c4Description="包活干系统对接" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="carService" id="Qbq5ssBaw6gX6Ap_R9ET-30">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#fad7ac;strokeColor=#b46504;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1170" y="90" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-32" target="Qbq5ssBaw6gX6Ap_R9ET-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="GPS" c4Description="GPS追踪器设备" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="device" id="Qbq5ssBaw6gX6Ap_R9ET-32">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#bac8d3;strokeColor=#23445d;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1620" y="420" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-33" target="Qbq5ssBaw6gX6Ap_R9ET-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="kafka" c4Type="MQ" c4Description="kafka message queue" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-33">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1330" y="510" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Qbq5ssBaw6gX6Ap_R9ET-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="pHmbYkLB0yxuLn5dIZtR-1" source="Qbq5ssBaw6gX6Ap_R9ET-34" target="Qbq5ssBaw6gX6Ap_R9ET-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object c4Name="OBD" c4Description="OBD设备" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" placeholders="1" c4Type="device" id="Qbq5ssBaw6gX6Ap_R9ET-34">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#bac8d3;strokeColor=#23445d;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1620" y="570" width="110" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ice-server" c4Type="Container" c4Technology="ice" c4Description="大叔据ice服务" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="940" y="510" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="ice-server" c4Type="Container" c4Technology="ice" c4Description="大叔据ice服务" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1135" y="510" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="dbData" c4Type="db data" c4Application="数据平台数据存储方式" label="&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontColor=#000000;align=left;arcSize=5;strokeColor=#000000;verticalAlign=bottom;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="920" y="710" width="590" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Database" c4Technology="mysql" c4Description="mysql db存储" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-42">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#438DD5;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#3C7FC0;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="940" y="735" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="nosql" c4Technology="redis" c4Description="nosql数据存储" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-43">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#d5e8d4;fontSize=12;align=center;strokeColor=#82b366;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1135" y="735" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="bigData" c4Technology="hbase" c4Description="大叔据存储" label="%c4Type%&lt;div&gt;[Container:&amp;nbsp;%c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="Qbq5ssBaw6gX6Ap_R9ET-44">
+          <mxCell style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fontSize=12;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.5,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="pHmbYkLB0yxuLn5dIZtR-1">
+            <mxGeometry x="1330" y="735" width="160" height="140" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
