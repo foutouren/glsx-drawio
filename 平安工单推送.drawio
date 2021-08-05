@@ -1,23 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T03:12:27.864Z" agent="5.0 (Windows)" etag="o2dBp2B6PHjkqq7ipfgy" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T03:38:01.080Z" agent="5.0 (Windows)" etag="n-ODTx_hK3kHXrXlGWJO" version="14.7.2" type="github">
   <diagram id="0" name="Page-1">
     <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-19" value="平安" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="110" width="100" height="1050" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-19" value="平安" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="100" height="1930" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-24" value="工单推送" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-24" value="POST : 工单推送" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="50" y="70" as="sourcePoint" />
             <mxPoint x="110" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-22" value="广联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="110" width="100" height="1050" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-74" value="POST : 安装信息查询" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="770" as="sourcePoint" />
+            <mxPoint x="380" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-77" value="POST : 更新工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="950" as="sourcePoint" />
+            <mxPoint x="110" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-92" value="POST : 取消工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="1310" as="sourcePoint" />
+            <mxPoint x="110" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-22" value="广联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="100" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
           <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
@@ -25,8 +40,26 @@
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
           <mxGeometry x="45" y="530" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-23" value="包活干" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="110" width="100" height="1050" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry x="45" y="950" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-89" value="推送工单更新" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-22" target="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="1170" as="sourcePoint" />
+            <mxPoint x="110" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry x="45" y="1310" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-101" value="取消工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-22" target="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="50" y="1530" as="sourcePoint" />
+            <mxPoint x="110" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-23" value="包活干" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="770" y="110" width="100" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
           <mxGeometry x="40" y="340" width="10" height="190" as="geometry" />
@@ -38,6 +71,9 @@
               <mxPoint x="71" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry x="45" y="1530" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-27" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="210" y="182" width="120" height="30" as="geometry" />
@@ -129,10 +165,91 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="1">
-          <mxGeometry x="135" y="880" width="10" height="80" as="geometry" />
+          <mxGeometry x="475" y="880" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-72" value="工单推送" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-72" value="工单推送" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="182" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-73" value="安装信息查询" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-75" value="返回安装信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="960" as="sourcePoint" />
+            <mxPoint x="400" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-76" value="更新工单" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1060" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-78" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1062" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-79" value="报文加密：RSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1094" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-80" value="除签名外所有参数参与加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1126" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-81" value="参数：车架号为数字摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1158" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-82" value="参数：安装联系人为店面联系人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1190" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-83" value="唯一ID：车架号（数字摘要）+渠道类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1222" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-86" value="返回更新结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="1320" as="sourcePoint" />
+            <mxPoint x="140" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-87" value="判断：工单是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1062" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-88" value="判断：工单是否可修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1094" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-90" value="包活干派单安装" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="370" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-91" value="更新工单" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1420" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-93" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1422" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-94" value="报文加密：RSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1454" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-95" value="除签名外所有参数参与加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1486" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-96" value="参数：车架号为数字摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1518" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-97" value="参数：安装联系人为店面联系人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1550" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-98" value="唯一ID：车架号（数字摘要）+渠道类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1582" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-100" value="判断：工单是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1422" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-103" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1720" as="sourcePoint" />
+            <mxPoint x="740" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-104" value="返回取消结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.54;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1720" as="sourcePoint" />
+            <mxPoint x="400" y="1720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
