@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T03:38:01.080Z" agent="5.0 (Windows)" etag="n-ODTx_hK3kHXrXlGWJO" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T03:46:56.211Z" agent="5.0 (Windows)" etag="XBULT0Oo1dO6mSCl6Q8F" version="14.7.2" type="github">
   <diagram id="0" name="Page-1">
-    <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="754" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,18 @@
             <mxPoint x="50" y="1310" as="sourcePoint" />
             <mxPoint x="110" y="1310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-105" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry x="45" y="770" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry x="45" y="950" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
+          <mxGeometry x="45" y="1310" width="10" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-22" value="广联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="100" height="1930" as="geometry" />
