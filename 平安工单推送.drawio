@@ -1,273 +1,233 @@
-<mxfile host="app.diagrams.net" modified="2021-08-05T05:55:53.366Z" agent="5.0 (Windows)" etag="7yUdvQmbFlXUWO2tNm49" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-05T06:10:51.822Z" agent="5.0 (Windows)" etag="8sMH00nuBPPBMUeOkdPZ" version="14.7.2" type="github">
   <diagram id="0" name="Page-1">
     <mxGraphModel dx="942" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-19" value="平安" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="110" width="100" height="1930" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-24" value="POST : 工单推送" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19" target="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="70" as="sourcePoint" />
-            <mxPoint x="110" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-74" value="POST : 安装信息查询" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="840" as="sourcePoint" />
-            <mxPoint x="389" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-77" value="POST : 更新工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="1020" as="sourcePoint" />
-            <mxPoint x="389" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-92" value="POST : 取消工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="1380" as="sourcePoint" />
-            <mxPoint x="389" y="1380" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="90" y="110" width="100" height="1570" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-105" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry x="45" y="840" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry x="45" y="1020" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry x="45" y="1380" width="10" height="300" as="geometry" />
+          <mxGeometry x="45" y="89" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-22" value="广联" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="110" width="100" height="1930" as="geometry" />
+          <mxGeometry x="430" y="110" width="100" height="1570" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry x="45" y="70" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry x="45" y="530" width="10" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry x="45" y="1020" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-89" value="推送工单更新" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="1240" as="sourcePoint" />
-            <mxPoint x="389" y="1240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry x="45" y="1380" width="10" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-101" value="取消工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="PKEPj2NAEDAo1NqbGAmX-22">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="50" y="1600" as="sourcePoint" />
-            <mxPoint x="389" y="1600" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="45" y="89" width="10" height="260" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-23" value="包活干" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="110" width="100" height="1930" as="geometry" />
+          <mxGeometry x="770" y="110" width="100" height="1570" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
-          <mxGeometry x="40" y="340" width="10" height="190" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-116" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry x="46" y="255" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-57" value="师傅接单安装" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="PKEPj2NAEDAo1NqbGAmX-56" parent="PKEPj2NAEDAo1NqbGAmX-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="41" y="320" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="71" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
-          <mxGeometry x="45" y="1600" width="10" height="80" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-119" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry x="45" y="766" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-27" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="182" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="201" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-28" value="报文加密：RSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="214" width="120" height="30" as="geometry" />
+          <mxGeometry x="210" y="233" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-29" value="除签名外所有参数参与加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="246" width="160" height="30" as="geometry" />
+          <mxGeometry x="210" y="265" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-30" value="参数：车架号为数字摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="278" width="160" height="30" as="geometry" />
+          <mxGeometry x="210" y="297" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-31" value="参数：安装联系人为店面联系人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="310" width="190" height="30" as="geometry" />
+          <mxGeometry x="210" y="329" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-32" value="唯一ID：车架号（数字摘要）+渠道类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="342" width="230" height="30" as="geometry" />
+          <mxGeometry x="210" y="361" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-34" value="推送安装" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;exitX=0.2;exitY=0.731;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PKEPj2NAEDAo1NqbGAmX-33" target="PKEPj2NAEDAo1NqbGAmX-23">
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-34" value="推送安装" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="480" y="260" as="sourcePoint" />
-            <mxPoint x="540" y="260" as="targetPoint" />
+            <mxPoint x="490" y="366" as="sourcePoint" />
+            <mxPoint x="819" y="366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-35" value="返回工单推送结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-19">
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-35" value="返回工单推送结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="440" as="sourcePoint" />
-            <mxPoint x="400" y="440" as="targetPoint" />
+            <mxPoint x="480" y="459" as="sourcePoint" />
+            <mxPoint x="150" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-37" value="判断：报文解析是否正常" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="180" width="190" height="30" as="geometry" />
+          <mxGeometry x="490" y="199" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-38" value="判断：签名是否正确" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="212" width="190" height="30" as="geometry" />
+          <mxGeometry x="490" y="231" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-39" value="判断：必传参数校验" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="244" width="190" height="30" as="geometry" />
+          <mxGeometry x="490" y="263" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-40" value="判断：工单是否已经存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="276" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="1">
-          <mxGeometry x="811" y="390" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-53" value="人工派单" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="PKEPj2NAEDAo1NqbGAmX-52" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="816" y="370" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="846" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-58" value="师傅需要输入车架号信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="826" y="460" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-59" value="师傅需要输入设备号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="826" y="492" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-60" value="师傅需要上传图片" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="826" y="524" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-61" value="判断：验证车架号摘要是否正确" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="826" y="557" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-62" value="判断：验证设备位置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="826" y="589" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-63" value="安装完成推送" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="818" y="641.04" as="sourcePoint" />
-            <mxPoint x="479.5" y="641.04" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-65" value="激活工单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="660" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-66" value="车辆绑定设备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="692" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-67" value="安装图片上传平安云" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="724" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-68" value="通知安装完成" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="780" as="sourcePoint" />
-            <mxPoint x="400" y="780" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="1">
-          <mxGeometry x="475" y="950" width="10" height="80" as="geometry" />
+          <mxGeometry x="490" y="295" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-72" value="工单推送" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="182" width="90" height="36" as="geometry" />
+          <mxGeometry x="40" y="201" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-114" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="367" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-115" value="" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=none;startSize=8;exitX=0.2;exitY=0.731;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-114">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="477" y="405.05999999999995" as="sourcePoint" />
+            <mxPoint x="819" y="405.05999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-24" value="POST : 工单推送" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;entryX=-0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.9;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PKEPj2NAEDAo1NqbGAmX-105" target="PKEPj2NAEDAo1NqbGAmX-33">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="140" y="199" as="sourcePoint" />
+            <mxPoint x="200" y="199" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-117" value="返回推送结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=1.1;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="445" as="sourcePoint" />
+            <mxPoint x="490" y="449" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-74" value="POST : 安装信息查询" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="141" y="559" as="sourcePoint" />
+            <mxPoint x="480" y="559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-77" value="POST : 更新工单" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="141" y="739" as="sourcePoint" />
+            <mxPoint x="480" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-92" value="POST : 取消工单" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="141" y="1099" as="sourcePoint" />
+            <mxPoint x="480" y="1099" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-106" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="136" y="559" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-107" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="136" y="739" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="136" y="1099" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-85" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="476" y="739" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-89" value="推送工单更新" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;exitX=1.1;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PKEPj2NAEDAo1NqbGAmX-118" target="PKEPj2NAEDAo1NqbGAmX-23">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="481" y="959" as="sourcePoint" />
+            <mxPoint x="810" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="476" y="1099" width="10" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-101" value="取消工单" style="html=1;verticalAlign=bottom;startArrow=none;startFill=0;endArrow=block;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="481" y="1319" as="sourcePoint" />
+            <mxPoint x="820" y="1319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="816" y="1319" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-69" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;align=left;" vertex="1" parent="1">
+          <mxGeometry x="476" y="559" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-73" value="安装信息查询" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="950" width="90" height="36" as="geometry" />
+          <mxGeometry x="41" y="559" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-75" value="返回安装信息" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1030" as="sourcePoint" />
-            <mxPoint x="137" y="1030" as="targetPoint" />
+            <mxPoint x="481" y="639" as="sourcePoint" />
+            <mxPoint x="138" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-76" value="更新工单" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1130" width="90" height="36" as="geometry" />
+          <mxGeometry x="41" y="739" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-78" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1132" width="120" height="30" as="geometry" />
+          <mxGeometry x="211" y="741" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-79" value="报文加密：RSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1164" width="120" height="30" as="geometry" />
+          <mxGeometry x="211" y="773" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-80" value="除签名外所有参数参与加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1196" width="160" height="30" as="geometry" />
+          <mxGeometry x="211" y="805" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-81" value="参数：车架号为数字摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1228" width="160" height="30" as="geometry" />
+          <mxGeometry x="211" y="837" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-82" value="参数：安装联系人为店面联系人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1260" width="190" height="30" as="geometry" />
+          <mxGeometry x="211" y="869" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-83" value="唯一ID：车架号（数字摘要）+渠道类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1292" width="230" height="30" as="geometry" />
+          <mxGeometry x="211" y="901" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-86" value="返回更新结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479" y="1390" as="sourcePoint" />
-            <mxPoint x="140" y="1390" as="targetPoint" />
+            <mxPoint x="480" y="999" as="sourcePoint" />
+            <mxPoint x="141" y="999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-87" value="判断：工单是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1132" width="190" height="30" as="geometry" />
+          <mxGeometry x="491" y="741" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-88" value="判断：工单是否可修改" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1164" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-90" value="包活干派单安装" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="370" width="90" height="36" as="geometry" />
+          <mxGeometry x="491" y="773" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-91" value="取消工单" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontStyle=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1490" width="90" height="36" as="geometry" />
+          <mxGeometry x="41" y="1099" width="90" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-93" value="签名算法：SHA-512" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1492" width="120" height="30" as="geometry" />
+          <mxGeometry x="211" y="1101" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-94" value="报文加密：RSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1524" width="120" height="30" as="geometry" />
+          <mxGeometry x="211" y="1133" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-95" value="除签名外所有参数参与加密" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1556" width="160" height="30" as="geometry" />
+          <mxGeometry x="211" y="1165" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-96" value="参数：车架号为数字摘要" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1588" width="160" height="30" as="geometry" />
+          <mxGeometry x="211" y="1197" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-97" value="参数：安装联系人为店面联系人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1620" width="190" height="30" as="geometry" />
+          <mxGeometry x="211" y="1229" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-98" value="唯一ID：车架号（数字摘要）+渠道类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1652" width="230" height="30" as="geometry" />
+          <mxGeometry x="211" y="1261" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-100" value="判断：工单是否存在" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1492" width="190" height="30" as="geometry" />
+          <mxGeometry x="491" y="1101" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-103" value="返回取消结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="1790" as="sourcePoint" />
-            <mxPoint x="477" y="1790" as="targetPoint" />
+            <mxPoint x="821" y="1399" as="sourcePoint" />
+            <mxPoint x="478" y="1399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PKEPj2NAEDAo1NqbGAmX-104" value="返回取消结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.54;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1790" as="sourcePoint" />
-            <mxPoint x="144" y="1789.62" as="targetPoint" />
+            <mxPoint x="481" y="1399" as="sourcePoint" />
+            <mxPoint x="145" y="1398.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-109" value="设备GPS信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="782" width="160" height="30" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-118" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;shadow=0;strokeWidth=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="481" y="876" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PKEPj2NAEDAo1NqbGAmX-110" value="无线设备电量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
-          <mxGeometry x="210" y="814" width="160" height="30" as="geometry" />
+        <mxCell id="PKEPj2NAEDAo1NqbGAmX-120" value="返回推送结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.9;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PKEPj2NAEDAo1NqbGAmX-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="816" y="956" as="sourcePoint" />
+            <mxPoint x="736" y="956" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
