@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T05:47:36.060Z" agent="5.0 (Windows)" version="17.4.0" etag="FAGKCGkKjh6qxEE8tEfu" type="github"><diagram id="WM0TkmfqHGNnxdzKJGQH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-02T05:51:38.554Z" agent="5.0 (Windows)" etag="S9TYumeW1mlv15zy9B9M" version="17.4.0" type="github">
+  <diagram id="WM0TkmfqHGNnxdzKJGQH" name="Page-1">
+    <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GsWFJR7Xv0pFZo6Y6Nqe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsWFJR7Xv0pFZo6Y6Nqe-1" target="GsWFJR7Xv0pFZo6Y6Nqe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsWFJR7Xv0pFZo6Y6Nqe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GsWFJR7Xv0pFZo6Y6Nqe-1" target="GsWFJR7Xv0pFZo6Y6Nqe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GsWFJR7Xv0pFZo6Y6Nqe-1" value="系统" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GsWFJR7Xv0pFZo6Y6Nqe-2" value="&lt;div&gt;（根据新旧E盾&lt;/div&gt;&lt;div&gt;分类与组织关系）&lt;/div&gt;&lt;div&gt;将车辆数据分配给帐号&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GsWFJR7Xv0pFZo6Y6Nqe-3" value="新E盾组织下创建帐号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
