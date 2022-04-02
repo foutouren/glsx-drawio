@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T06:11:41.471Z" agent="5.0 (Windows)" etag="lxnTvOmjcC_1zS62aSWG" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T06:12:09.453Z" agent="5.0 (Windows)" etag="dnrdpM3YRB-Ts5tMjVPh" version="17.4.0" type="github">
   <diagram id="dYsKsVPRD8xPhfCQvpAa" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,6 +82,18 @@
         <mxCell id="ct7MPghn26qvxYSjN42x-16" value="警情级别字典" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ct7MPghn26qvxYSjN42x-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ct7MPghn26qvxYSjN42x-27" target="ct7MPghn26qvxYSjN42x-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ct7MPghn26qvxYSjN42x-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ct7MPghn26qvxYSjN42x-27" target="ct7MPghn26qvxYSjN42x-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ct7MPghn26qvxYSjN42x-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ct7MPghn26qvxYSjN42x-27" target="ct7MPghn26qvxYSjN42x-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ct7MPghn26qvxYSjN42x-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ct7MPghn26qvxYSjN42x-27" target="ct7MPghn26qvxYSjN42x-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-27" value="处理日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="440" width="80" height="40" as="geometry" />
         </mxCell>
@@ -89,19 +101,19 @@
           <mxGeometry x="280" y="280" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-30" value="警情ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="105" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-31" value="处理时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="195" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-32" value="处理状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-34" value="处理内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="285" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ct7MPghn26qvxYSjN42x-35" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="560" width="80" height="40" as="geometry" />
+          <mxGeometry x="375" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
