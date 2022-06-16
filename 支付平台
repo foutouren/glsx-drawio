@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T03:52:35.405Z" agent="5.0 (Windows)" etag="XxbXeCc_L0y3JxKla1ai" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T03:53:24.329Z" agent="5.0 (Windows)" etag="dn1VgzNNBNJua9u5zhWP" version="20.0.1" type="github">
   <diagram id="r2Emfib4lmoS0G8qbRKx" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="um8ZHptnfpcHfVO_Tv98-1" value="支付平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="um8ZHptnfpcHfVO_Tv98-1" value="支付平台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="um8ZHptnfpcHfVO_Tv98-2" value="微信支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="um8ZHptnfpcHfVO_Tv98-2" value="微信支付" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="um8ZHptnfpcHfVO_Tv98-3" value="支付宝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="um8ZHptnfpcHfVO_Tv98-3" value="支付宝" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="560" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8ZHptnfpcHfVO_Tv98-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
